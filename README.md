@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Amrito
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning web development, wordpress, HTML, CSS and more...
+- 📫 How to reach me [ pialwp22@gmail.com ]
 
 <!---
 Amrito20/Amrito20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
